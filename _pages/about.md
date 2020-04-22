@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 image: /assets/img/sitepost.png
 permalink: /about/
 post_video: 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Поиск
+title: Pesquisar
 sitemap: false
 permalink: /search/
 ---
