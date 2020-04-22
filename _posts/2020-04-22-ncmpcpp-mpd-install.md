@@ -10,7 +10,7 @@ comments: true
 edit_url: true
 ---
 
-# Instalação ncmpcpp-mpd Solus Budgie / Mate
+Instalação ncmpcpp-mpd Solus Budgie / Mate
 
 
 # INSTALAÇÃO mpd + ncmpcp
