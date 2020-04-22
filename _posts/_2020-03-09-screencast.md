@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Как я записываю и монтирую видео
+title: Instalação MPD e Polybar no Solus Budgie/Mate
 description:
 image: /uploads/screencast.png
 post_photo_path: /uploads/screencast.png
-tags: screencast
+tags: instalação
 comments: true
 edit_url: true
 ---
