@@ -1,21 +1,21 @@
 lang: "ru"
 
 # jekyll-seo-tag
-title: Alex Creio
-author: Alex Creio
-description: Blog о Linux и не только...
+title: Nilsonlinux
+author: Nilsonlinux
+description: Blog sobre Linux ...
 logo: /assets/img/logo.png
 social:
   links:
-    - https://github.com/creio
+    - https://github.com/nilsonlinux
 webmaster_verifications:
   # google: 1234
-  yandex: 88da0cac75447b72
+  yandex: 
 
 google_analytics:
 ya_metrika: 49475860
 
-repo_url: https://github.com/creio/creio.github.io
+repo_url: https://github.com/nilsonlinux/nilsonlinux.github.io
 
 # Page settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -39,12 +39,12 @@ navigation:                  # site navigation in the header. / & _pages
   # - Telegram: https://t.me/cretm       # linking external sites is also supported
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
-  linux: https://ctlos.github.io
-  telegram-plane: https://t.me/ctlos
-  youtube: https://www.youtube.com/c/creioyt?sub_confirmation=1
+  linux: https://nilsonlinux.github.io
+  telegram-plane: https://t.me/nilsonlinux
+  youtube: https://www.youtube.com/nilsonlinux?sub_confirmation=1
   keybase: https://keybase.io/cvc
-  github: https://github.com/creio
-  vk: https://vk.com/ctlos
+  github: https://github.com/nilsonlinux
+  vk: https://vk.com/nilsonlinux
   rss: /feed.xml
   # envelope: "mailto:mailcreio@gmail.com"
 
@@ -53,7 +53,7 @@ tag_page: "/tags/"
 include: ["_pages"]
 
 comments:
-  disqus: "creds"
+  disqus: "nilsonlinux"
 
 sass:
   style: compressed
