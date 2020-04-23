@@ -37,16 +37,19 @@ Agora precisaremos clonar o reposítório que contém os arquivos necessário pa
 git clone https://github.com/nilsonlinux/polybar
 ```
 Agora vamos entrar no diretório baixado e copiar a pasta *fonts* pra pasta *~/.local/share/*
+
 **5 .Entrar no diretório e copiar a pasta** *fonts*
 ```
 cd polybar && cp -r fonts/* ~/.local/share/fonts
 ```
 Vamos atualizar as fontes e copiar a pasta polybar pra seu lugar devido.
+
 **6 .Atualizar o cache das fontes e copiar a pasta polybar.**
 ```
 fc-cache -v && cp -r * ~/.config/polybar
 ```
 Hora de da permissão pro arquivo e executar.
+
 **7 .Dando permissão e executadon o polybar**
 ```
 chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
