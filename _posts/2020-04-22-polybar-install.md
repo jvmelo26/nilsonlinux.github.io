@@ -40,7 +40,20 @@ Agora vamos entrar no diretório baixado e copiar a pasta *fonts* pra pasta *~/.
 ```
 cd polybar && cp -r fonts/* ~/.local/share/fonts
 ```
+Vamos atualizar as fontes e copiar a pasta polybar pra seu lugar devido.
+**5 .Atualizar o cache das fontes e copiar a pasta polybar.**
+```
+fc-cache -v && cp -r * ~/.config/polybar
+```
+Hora de da permissão pro arquivo e executar.
+**6 .Dando permissão e executadon o polybar**
+```
+chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
+```
+Chegamos ao fim da postagem. É isso pessoal. 
+*Se viu algum erro ou gostaria de complementar algo, fique a vontade.*
 
+Abaixo temos o código completo utilizado no poste e alguns prints ***Fui***
 ```
 # sudo eopkg it polybar && mkdir ~/.local/share/fonts && mkdir ~/.config/polybar && git clone https://github.com/nilsonlinux/polybar && cd polybar && cp -r fonts/* ~/.local/share/fonts && fc-cache -v && cp -r * ~/.config/polybar && chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
 ```
