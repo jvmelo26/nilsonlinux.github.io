@@ -22,7 +22,7 @@ layout: default
 {% if paginator.total_pages > 1 %}
 <footer class="{% if site.dark_footer %}dark{% endif %}">
   <a {% if paginator.previous_page %}class="gray" href="{{ paginator.previous_page_path | relative_url }}"{% else %}class="disabled"{% endif %}>&larr; editar</a>
-  <span>страница {{ paginator.page }} из {{ paginator.total_pages }}</span>
+  <span>página {{ paginator.page }} из {{ paginator.total_pages }}</span>
   <a {% if paginator.next_page %}class="gray" href="{{ paginator.next_page_path | relative_url }}"{% else %}class="disabled"{% endif %}>Test &rarr;</a>
 </footer>
 {% else %}
