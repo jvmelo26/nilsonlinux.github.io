@@ -18,7 +18,7 @@ que você tenha um player de músicas totalmente funcional e cheio de funcionali
 
 
 Primeiro você precisa baixar os pacotes. ``mpd + ncmpcp`` Instale com esse comando asseguir.
-~~~gentoo
+~~~xml
 sudo apt install mpd ncmpcpp
 ~~~
 Logo em seguida você precisará criar dois subdirerórios para o funcionamento.
@@ -27,8 +27,8 @@ Criando o diretório  *mpd* dentro da pasta *.config* e também o diretório *pl
 ```zsh
  mkdir ~/.config/mpd &&  mkdir ~/.config/mpd/playlists
 ```
-Pronto. Agora que você ja possue os diretórios criados em seus respectivos lugares. Vamos baixar o arquivo de configuração do *mpd.*
-```javascript
+Pronto. Agora que você ja possue os diretórios criados em seus respectivos lugares. Vamos baixar o arquivo de configuração do ``mpd``.
+```xml
 wget https://raw.githubusercontent.com/nilsonlinux/ncmpcpp-mpd/master/mpd.conf
 ```
 E por fim vamos copiar o arquivo que você baixou para o diretório criado no início. Ficará em *./config/mpd*
