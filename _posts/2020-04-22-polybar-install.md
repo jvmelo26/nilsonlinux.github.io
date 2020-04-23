@@ -10,9 +10,9 @@ comments: true
 edit_url: true
 ---
 
-INSTALAÇÃO DO POLYBAR
 Foi testado nas seguintes distribuições: Solus Budgie / Mate, Arch linux XFCE / Openbox
-Acredito que qualquer distribuição com estas ambientes devem funcionar sem problemas.
+Acredito que qualquer distribuição com estes ambientes devem funcionar sem problemas
+
 
 ## Vamos ao que interessa.
 
@@ -21,22 +21,22 @@ Primeiramente precisamos baixar o pacote *polybar* com o gerenciador de sua dist
 ```
 sudo eopkg it polybar
 ```
-**2 .Criando o subdiretório** *fonts* **que ficarar dentro das pastas** *.local/share/*.
+**2 .Criando o subdiretório** *fonts* **que ficarar dentro das pastas** *.local/share/*
 ```
 mkdir ~/.local/share/fonts
 ```
-**2 .Criando o subdiretório** *polybar* **que ficarar dentro da pasta** *.config*.
+**2 .Criando o subdiretório** *polybar* **que ficarar dentro da pasta** *.config*
 ```
 mkdir ~/.config/polybar
 ```
 Agora precisaremos clonar o reposítório que contém os arquivos necessário para a execução do polybar.
 
-**3 .Clonando o repositório.***
+**3 .Clonando o repositório.**
 ```
 git clone https://github.com/nilsonlinux/polybar
 ```
-Agora vamos entrar no diretório baixado e copiar a pasta *fonts* pra pasta *~/.local/share/* 
-**4 .Entrar no diretório e copiar a pasta** *fonts*.
+Agora vamos entrar no diretório baixado e copiar a pasta *fonts* pra pasta *~/.local/share/*
+**4 .Entrar no diretório e copiar a pasta** *fonts*
 ```
 cd polybar && cp -r fonts/* ~/.local/share/fonts
 ```
