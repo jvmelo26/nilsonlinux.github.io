@@ -41,7 +41,7 @@ mpd && ncmpcpp
 ```
 # Viu só como é fácil. 
 Se você fez as etapas conforme eu publiquei. **Meus parabéns**! 
-*Ou é aquele tipo apressadinho que citei no início do post? Hehe
+*Ou é aquele tipo apressadinho que citei no início do post?*  Hehe
 
 Aí está o comando completo logo abaixo.
 
