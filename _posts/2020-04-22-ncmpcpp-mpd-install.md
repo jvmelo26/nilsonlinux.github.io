@@ -24,7 +24,7 @@ sudo apt install mpd ncmpcpp
 Logo em seguida você precisará criar dois subdirerórios para o funcionamento.
 
 Criando o diretório  *mpd* dentro da pasta *.config* e também o diretório *playlists* que ficará dentro da pasta *./local/mpd/* com esse comando.
-```javascript
+```zsh
  mkdir ~/.config/mpd &&  mkdir ~/.config/mpd/playlists
 ```
 Pronto. Agora que você ja possue os diretórios criados em seus respectivos lugares. Vamos baixar o arquivo de configuração do *mpd.*
