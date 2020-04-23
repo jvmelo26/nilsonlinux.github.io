@@ -17,7 +17,7 @@ Acredito que qualquer distribuição com estes ambientes devem funcionar sem pro
 ## Vamos ao que interessa.
 
 Primeiramente precisamos baixar o pacote *polybar* com o gerenciador de sua distro. Neste poste vou utilizar o eopkg do solus e o ambiente utilizado será o mate.
-**1 .Instalação polybar***
+**1 .Instalação polybar**
 ```
 sudo eopkg it polybar
 ```
