@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Linha do tempo
+title: Archive
 permalink: /archive/
 ---
