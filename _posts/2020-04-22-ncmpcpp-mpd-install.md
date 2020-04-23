@@ -10,8 +10,6 @@ comments: true
 edit_url: true
 ---
 
-Instalação ncmpcpp-mpd
-
 Bom pessoal esse é meu primeiro post e vou ensinar a instalar e configurar facilmente esses dois pacotes mágicos que faz com
 que você tenha um player de músicas totalmente funcional e cheio de funcionalidades em seu terminal. Além de consumir pouquíssimo recursos de sua máquina.
 
