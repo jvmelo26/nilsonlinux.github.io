@@ -5,7 +5,7 @@ sitemap: false
 permalink: /pesquisar/
 ---
 
-<form class="search" action="/search/" method="get">
+<form class="search" action="/pesquisar/" method="get">
   <label for="search-box"></label>
   <input type="text" id="search-box" name="q" placeholder="Введите запрос" required>
   <button type="submit"></button>
