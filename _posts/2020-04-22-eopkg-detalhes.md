@@ -10,7 +10,7 @@ edit_url: true
 
 
 
-O Solus usa o sistema de gerenciamento de pacotes eopkg para entregar software ao usuário final. 
+O Solus usa o sistema de gerenciamento de pacotes ``eopkg`` para entregar software ao usuário final. 
 Abaixo estão alguns comandos básicos para usar o ``eopkg``
 
 
