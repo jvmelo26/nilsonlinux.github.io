@@ -7,7 +7,7 @@ permalink: /pesquisar/
 
 <form class="search" action="/pesquisar/" method="get">
   <label for="search-box"></label>
-  <input type="text" id="search-box" name="q" placeholder="Введите запрос" required>
+  <input type="text" id="search-box" name="q" placeholder="Digite sua solicitação" required>
   <button type="submit"></button>
 </form>
 
