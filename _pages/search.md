@@ -2,7 +2,7 @@
 layout: page
 title: Pesquisar
 sitemap: false
-permalink: /search/
+permalink: /pesquisar/
 ---
 
 <form class="search" action="/search/" method="get">
