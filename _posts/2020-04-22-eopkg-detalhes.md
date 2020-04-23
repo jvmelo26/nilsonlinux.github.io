@@ -20,11 +20,11 @@ Instalando Software
 Você pode instalar um ou mais pacotes usando:
 {% highlight bash %}
 sudo eopkg install packagename
-{% highlight bash %}
+{% endhighlight %}
 Por exemplo:
-```yml
+{% highlight bash %}
 sudo eopkg install gnome-documents gnome-music
-```
+{% endhighlight %}
 Reinstalando Software
 Você pode reinstalar um ou mais pacotes usando:
 ```yml
