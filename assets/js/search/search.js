@@ -12,7 +12,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<p>Ничего не найдено</p>';
+      searchResults.innerHTML = '<p>Nada encontrado :(</p>';
     }
   }
 
