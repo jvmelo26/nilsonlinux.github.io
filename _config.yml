@@ -31,12 +31,12 @@ dark_footer: true           # keep the footer dark
 # style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # site navigation in the header. / & _pages
-  - Inicio: /
+  - Home: /
   - about.md
   - tags.md
-  - linha_do_tempo.md
+  - archive.md
   # - README.md
-  telegram: https://t.me/Nilsonlinux       # linking external sites is also supported
+  # - Telegram: https://t.me/cretm       # linking external sites is also supported
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
   linux: https://nilsonlinux.github.io
@@ -46,7 +46,7 @@ icons:                      # icons in the header, see http://fontawesome.com/ic
   github: https://github.com/nilsonlinux
   vk: https://vk.com/nilsonlinux
   rss: /feed.xml
-  envelope: "mailto:nilsonlinux@gmail.com"
+  # envelope: "mailto:mailcreio@gmail.com"
 
 tag_page: "/tags/"
 
