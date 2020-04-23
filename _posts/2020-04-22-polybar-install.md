@@ -5,7 +5,7 @@ description: Complementos, solus
 image: "/uploads/bspwm010.png"
 tags:
   - polybar
-  - solus
+  - linux
 comments: true
 edit_url: true
 ---
