@@ -1,5 +1,5 @@
 ---
-layout: archive
-title: Arquivo
-permalink: /archive/
+layout: timeline
+title: Linha do tempo
+permalink: /timeline/
 ---
