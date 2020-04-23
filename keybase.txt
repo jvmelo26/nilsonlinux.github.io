@@ -4,7 +4,7 @@ https://keybase.io/cvc
 
 I hereby claim:
 
-  * I am an admin of https://creio.github.io
+  * I am an admin of https://nilsonlinux.github.io
   * I am cvc (https://keybase.io/cvc) on keybase.
   * I have a public key with fingerprint 5041 7293 016B 25BE D724  9D83 98F7 6D97 B786 E6A3
 
