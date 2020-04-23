@@ -16,7 +16,7 @@ Acredito que qualquer distribuição com estes ambientes devem funcionar sem pro
 
 ## Vamos ao que interessa.
 
-Primeiramente precisamos baixar o pacote *polybar* com o gerenciador de sua distro. Neste poste vou utilizar o eopkg do solus e o ambiente utilizado será o mate. 
+Primeiramente precisamos baixar o pacote *polybar* com o gerenciador de sua distro. Neste poste vou utilizar o eopkg do solus e o ambiente utilizado será o mate.
 **1 .Instalação polybar***
 ```
 sudo eopkg it polybar
@@ -25,32 +25,32 @@ sudo eopkg it polybar
 ```
 mkdir ~/.local/share/fonts
 ```
-**2 .Criando o subdiretório** *polybar* **que ficarar dentro da pasta** *.config*
+**3 .Criando o subdiretório** *polybar* **que ficarar dentro da pasta** *.config*
 ```
 mkdir ~/.config/polybar
 ```
 Agora precisaremos clonar o reposítório que contém os arquivos necessário para a execução do polybar.
 
-**3 .Clonando o repositório.**
+**4 .Clonando o repositório.**
 ```
 git clone https://github.com/nilsonlinux/polybar
 ```
 Agora vamos entrar no diretório baixado e copiar a pasta *fonts* pra pasta *~/.local/share/*
-**4 .Entrar no diretório e copiar a pasta** *fonts*
+**5 .Entrar no diretório e copiar a pasta** *fonts*
 ```
 cd polybar && cp -r fonts/* ~/.local/share/fonts
 ```
 Vamos atualizar as fontes e copiar a pasta polybar pra seu lugar devido.
-**5 .Atualizar o cache das fontes e copiar a pasta polybar.**
+**6 .Atualizar o cache das fontes e copiar a pasta polybar.**
 ```
 fc-cache -v && cp -r * ~/.config/polybar
 ```
 Hora de da permissão pro arquivo e executar.
-**6 .Dando permissão e executadon o polybar**
+**7 .Dando permissão e executadon o polybar**
 ```
 chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
 ```
-Chegamos ao fim da postagem. É isso pessoal. 
+Chegamos ao fim da postagem. É isso pessoal.
 *Se viu algum erro ou gostaria de complementar algo, fique a vontade.*
 
 Abaixo temos o código completo utilizado no poste e alguns prints ***Fui***
