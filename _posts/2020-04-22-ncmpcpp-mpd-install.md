@@ -10,7 +10,7 @@ comments: true
 edit_url: true
 ---
 
-Bom pessoal esse é meu primeiro post e vou ensinar a instalar e configurar facilmente esses dois pacotes mágicos que faz com
+Bom pessoal esse é meu primeiro post e vou ensinar a instalar e configurar facilmente esses dois pacotesemágicos que faz com
 que você tenha um player de músicas totalmente funcional e cheio de funcionalidades em seu terminal. Além de consumir pouquíssimo recursos de sua máquina.
 
 *Só mais uma coisinha. Se você é um tipo de usuário apressadinho você pode ir para o final do post que tenho o comando completo para se instalar e configurar tudo de uma vez. Mais aconsselho a realizar o passo a passo. Assim você entenderar os processos e o funcionamento.*
@@ -46,7 +46,7 @@ Se você fez as etapas conforme eu publiquei. **Meus parabéns**!
 Aí está o comando completo logo abaixo.
 
 Então é isso pessoal. Até a próxima. 
-~~~java
+~~~ruby
 sudo eopkg it mpd ncmpcpp && mkdir ~/.config/mpd && mkdir .config/mpd/playlists && wget https://raw.githubusercontent.com/nilsonlinux/ncmpcpp-mpd/master/mpd.conf && cp mpd.conf ~/.config/mpd/ && mpd && ncmpcpp
 ~~~
 
