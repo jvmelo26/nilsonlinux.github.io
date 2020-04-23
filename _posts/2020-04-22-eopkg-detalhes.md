@@ -18,13 +18,13 @@ Abaixo estão alguns comandos básicos para usar o ``eopkg``
 
 Instalando Software  
 Você pode instalar um ou mais pacotes usando:
-{% highlight bash %}
+~~~bash
 sudo eopkg install packagename
-{% endhighlight %}
+~~~
 Por exemplo:
-{% highlight bash %}
+~~~bash
 sudo eopkg install gnome-documents gnome-music
-{% endhighlight %}
+~~~
 Reinstalando Software
 Você pode reinstalar um ou mais pacotes usando:
 ```yml
