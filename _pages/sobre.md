@@ -8,6 +8,6 @@ post_photo_path:
 comments: true
 ---
 
-# Nilsonlinux. :ghost:
+# Nilsonlinux.  :ghost:
 
 ![About](https://thumbs.gfycat.com/EarlyHomelyFoal-small.gif)
