@@ -18,7 +18,7 @@ que você tenha um player de músicas totalmente funcional e cheio de funcionali
 
 
 Primeiro você precisa baixar os pacotes. ``mpd + ncmpcp`` Instale com esse comando asseguir.
-~~~css javascript html php
+~~~css
 sudo apt install mpd ncmpcpp
 ~~~
 Logo em seguida você precisará criar dois subdirerórios para o funcionamento.
@@ -46,7 +46,7 @@ Se você fez as etapas conforme eu publiquei. **Meus parabéns**!
 Aí está o comando completo logo abaixo.
 
 Então é isso pessoal. Até a próxima. 
-~~~css
+~~~shellscript
 sudo eopkg it mpd ncmpcpp && mkdir ~/.config/mpd && mkdir .config/mpd/playlists && wget https://raw.githubusercontent.com/nilsonlinux/ncmpcpp-mpd/master/mpd.conf && cp mpd.conf ~/.config/mpd/ && mpd && ncmpcpp
 ~~~
 
