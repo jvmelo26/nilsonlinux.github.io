@@ -18,9 +18,9 @@ Abaixo estão alguns comandos básicos para usar o ``eopkg``
 
 Instalando Software  
 Você pode instalar um ou mais pacotes usando:
-```yml
+{% highlight bash %}
 sudo eopkg install packagename
-```
+{% highlight bash %}
 Por exemplo:
 ```yml
 sudo eopkg install gnome-documents gnome-music
