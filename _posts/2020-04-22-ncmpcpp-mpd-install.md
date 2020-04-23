@@ -4,8 +4,8 @@ title: Instalação mpd + ncmpcp
 description: mpd + ncmpcp
 image: "/uploads/bspwm010.png"
 tags:
-  - solus
-  - linux
+  - mpd
+  - ncmpcp
 comments: true
 edit_url: true
 ---
