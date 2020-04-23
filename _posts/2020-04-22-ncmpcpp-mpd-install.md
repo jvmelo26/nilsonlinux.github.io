@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ctlos Linux Bspwm v0.1.0
-description: Релиз тайлового wm, solus
+title: Instalação mpd + ncmpcp
+description: mpd + ncmpcp
 image: "/uploads/bspwm010.png"
 tags:
   - solus
-  - bspwm
+  - linux
 comments: true
 edit_url: true
 ---
 
-Instalação ncmpcpp-mpd Solus Budgie / Mate
+Instalação ncmpcpp-mpd
 
 
 # INSTALAÇÃO mpd + ncmpcp
