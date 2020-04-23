@@ -1,5 +1,5 @@
 ---
-layout: timeline
+layout: linha_do_tempo
 title: Linha do tempo
-permalink: /timeline/
+permalink: /linha_do_tempo/
 ---
