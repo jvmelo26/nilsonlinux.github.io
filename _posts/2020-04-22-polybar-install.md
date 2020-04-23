@@ -12,6 +12,8 @@ edit_url: true
 
 INSTALAÇÃO DO POLYBAR
 Distribuição: Solus Budgie / Mate
+
+
 ```
 # sudo eopkg it polybar && mkdir ~/.local/share/fonts && mkdir ~/.config/polybar && git clone https://github.com/nilsonlinux/polybar && cd polybar && cp -r fonts/* ~/.local/share/fonts && fc-cache -v && cp -r * ~/.config/polybar && chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
 ```
