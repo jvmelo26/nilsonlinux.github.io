@@ -3,9 +3,8 @@ layout: post
 title: Instalação do polybar
 description: Complementos, solus
 image: "/uploads/bspwm010.png"
-tags:
-  - polybar
-  - linux
+tags: polybar
+
 comments: true
 edit_url: true
 ---
