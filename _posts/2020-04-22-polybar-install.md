@@ -57,7 +57,7 @@ chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
 Chegamos ao fim da postagem. É isso pessoal.
 *Se viu algum erro ou gostaria de complementar algo, fique a vontade.*
 
-Abaixo temos o código completo utilizado no poste e alguns prints ***Fui***
+Abaixo temos o código completo utilizado no poste e alguns prints.  ***Fui !!!***
 ```
 # sudo eopkg it polybar && mkdir ~/.local/share/fonts && mkdir ~/.config/polybar && git clone https://github.com/nilsonlinux/polybar && cd polybar && cp -r fonts/* ~/.local/share/fonts && fc-cache -v && cp -r * ~/.config/polybar && chmod +x ~/.config/polybar/polybar.sh &&  ~/.config/polybar/polybar.sh
 ```
