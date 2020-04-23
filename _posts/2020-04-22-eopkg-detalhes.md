@@ -79,5 +79,6 @@ sudo eopkg install -c system.devel
 ```
 Isso fornecerá itens como clang, gcc, make, vários sub-pacotes de desenvolvimento e muito mais. Nosso system.devel é similar a pacotes em outros sistemas operacionais, como o essencial da Debian.
 ```
+
 By: Nilsonlinux. Fonte:  
 https://solus-project.com/articles/package-management/basics/en/
