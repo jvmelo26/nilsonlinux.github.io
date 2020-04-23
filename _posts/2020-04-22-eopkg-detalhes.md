@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eopkg detalhes"
-date:   2018-04-23
+date:   2020-04-23
 tags: solus eopkg
 
 comments: true
