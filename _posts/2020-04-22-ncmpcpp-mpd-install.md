@@ -18,7 +18,7 @@ que você tenha um player de músicas totalmente funcional e cheio de funcionali
 
 
 Primeiro você precisa baixar os pacotes. *mpd* + *ncmpcp.* Instale com esse comando asseguir.
-~~~javascript
+~~~gentoo
 sudo apt install mpd ncmpcpp
 ~~~
 Logo em seguida você precisará criar dois subdirerórios para o funcionamento.
