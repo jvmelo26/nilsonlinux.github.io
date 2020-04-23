@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 image: /assets/img/sitepost.png
-permalink: /about/
+permalink: /sobre/
 post_video: 
 post_photo_path: 
 comments: true
