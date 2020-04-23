@@ -46,8 +46,8 @@ Se você fez as etapas conforme eu publiquei. **Meus parabéns**!
 Aí está o comando completo logo abaixo.
 
 # Então é isso pessoal. Até a próxima. 
-
+~~~ruby
 sudo eopkg it mpd ncmpcpp && mkdir ~/.config/mpd && mkdir .config/mpd/playlists && wget https://raw.githubusercontent.com/nilsonlinux/ncmpcpp-mpd/master/mpd.conf && cp mpd.conf ~/.config/mpd/ && mpd && ncmpcpp
-```
+~~~
 
 ![](https://i.ibb.co/cF11PXG/Captura-de-tela-em-2020-04-21-11-32-07.png)
