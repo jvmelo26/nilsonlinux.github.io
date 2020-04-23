@@ -12,7 +12,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<p>Nada encontrado :(</p>';
+      searchResults.innerHTML = '<p>Desculpe. mais não encontrei nada relacionado a sua pesquisa :(</p>';
     }
   }
 
