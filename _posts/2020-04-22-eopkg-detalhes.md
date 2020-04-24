@@ -70,9 +70,8 @@ Por exemplo:
 ```yml
 sudo eopkg search documents
 ```
-Observe que você não precisa procurar por um nome de software específico, embora você possa fazer isso. Procuramos resumos e nomes de software por padrão.
-
-Ferramentas de desenvolvimento base
+Observe que você não precisa procurar por um nome de software específico, embora você possa fazer isso. Procuramos resumos e nomes de software por padrão. 
+**Ferramentas de desenvolvimento base 
 
 Se você está querendo compilar software sob o Solus, recomendamos instalar o nosso componente system.devel rodando o seguinte:
 ```yml
@@ -80,6 +79,5 @@ sudo eopkg install -c system.devel
 ```
 Isso fornecerá itens como clang, gcc, make, vários sub-pacotes de desenvolvimento e muito mais. Nosso system.devel é similar a pacotes em outros sistemas operacionais, como o essencial da Debian.
 
-
-By: Nilsonlinux. Fonte:  
+By: Nilsonlinux. Fonte: 
 https://getsol.us/articles/package-management/basics/en/
