@@ -1,14 +1,4 @@
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122784671-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-122784671-2');
-</script>
-  
   <meta charset="{{ site.encoding }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if site.plugins contains "jekyll-feed" %}
@@ -46,7 +36,7 @@
   <meta name="yandex-verification" content="{{ site.yandex_verification }}" />
   {% endif %}
   {% if site.google_analytics %}
-  <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+  <script async src="https://www.googletagmanager.com/gtag/js"></script>
   <script>
     var galite = galite || {};
     galite.UA = '{{ site.google_analytics }}';
