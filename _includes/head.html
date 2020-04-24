@@ -35,11 +35,21 @@
   {% if site.yandex_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_verification }}" />
   {% endif %}
-  {% if site.google_analytics %}
-  <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
-  <script>
-    var galite = galite || {};
-    galite.UA = '{{ site.google_analytics }}';
-  </script>
-  {% endif %}
+{% if site.google_analytics %}
+
+    {% if jekyll.environment == "production" %}
+        <script>
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+            ga("create", "{{ site.google_analytics }}", "auto");
+            ga("send", "pageview");
+        </script>
+        <script async src="https://www.google-analytics.com/analytics.js"></script>
+    {% else %}
+        <!-- jekyll.environment variable is "{{ jekyll.environment }}" and not "production", Google Analytics snippet will be skipped. -->
+    {% endif %}
+
+{% else %}
+    <!-- Please specify google_analytics variable in the _config.yml to enable Google Analytics -->
+{% endif %}
 </head>
