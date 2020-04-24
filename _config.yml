@@ -40,8 +40,9 @@ navigation:                  # site navigation in the header. / & _pages
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
   # linux: https://nilsonlinux.github.io
+  twitter: https://twitter.com/Nilsonlinux
   reddit: https://www.reddit.com/user/nilsonlinux
-  telegram-plane: https://t.me/nilsonlinux
+  telegram-plane: https://t.me/Nilsonlinux
   # youtube: https://www.youtube.com/nilsonlinux?sub_confirmation=1
   # keybase: https://keybase.io/cvc
   github: https://github.com/nilsonlinux
