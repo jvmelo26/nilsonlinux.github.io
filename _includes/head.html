@@ -45,11 +45,5 @@
             ga("send", "pageview");
         </script>
         <script async src="https://www.google-analytics.com/analytics.js"></script>
-    {% else %}
-        <!-- jekyll.environment variable is "{{ jekyll.environment }}" and not "production", Google Analytics snippet will be skipped. -->
-    {% endif %}
-
-{% else %}
-    <!-- Please specify google_analytics variable in the _config.yml to enable Google Analytics -->
-{% endif %}
+  {% endif %}
 </head>
