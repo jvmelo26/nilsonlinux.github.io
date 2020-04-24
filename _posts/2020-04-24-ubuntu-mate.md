@@ -10,7 +10,7 @@ edit_url: true
 
 Lançado o Ubuntu MATE 20.04 com várias melhorias e alterações em sua nova LTS.
 
-Com relação ao Ambiente MATE o que mudou nestas versão foi a estabilidade. Pois a versão
+Com relação ao Ambiente MATE o que mudou nesta versão foi a estabilidade. Pois a versão
 ainda é a mesma quando lançado na LTS anterior 18.04. Mate 1.24. Em cima disso a equipe trabalhou dando atenção a remoção de bugs.
 E foi adicionado várias melhorias na aparência.
 
