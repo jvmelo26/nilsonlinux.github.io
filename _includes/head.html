@@ -36,10 +36,12 @@
   <meta name="yandex-verification" content="{{ site.yandex_verification }}" />
   {% endif %}
   {% if site.google_analytics %}
-  <script async src="https://www.googletagmanager.com/gtag/js"></script>
-  <script>
-    var galite = galite || {};
-    galite.UA = '{{ site.google_analytics }}';
-  </script>
-  {% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122784671-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122784671-2');
+</script>
 </head>
