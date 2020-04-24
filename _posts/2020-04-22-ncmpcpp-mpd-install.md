@@ -5,7 +5,7 @@ description: Instalação ncmpcpp e mpd
 image: "/uploads/bspwm010.png"
 tags:
   - mpd
-  - ncmpcp
+  - ncmpcpp
 comments: true
 edit_url: true
 ---
