@@ -82,4 +82,4 @@ Isso fornecerá itens como clang, gcc, make, vários sub-pacotes de desenvolvime
 
 
 By: Nilsonlinux. Fonte:  
-https://solus-project.com/articles/package-management/basics/en/
+https://getsol.us/articles/package-management/basics/en/
