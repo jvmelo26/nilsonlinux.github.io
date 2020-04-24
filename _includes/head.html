@@ -36,5 +36,11 @@
   <meta name="yandex-verification" content="{{ site.yandex_verification }}" />
   {% endif %}
   {% if site.google_analytics %}
-<script async src="https://www.googletagmanager.com/gtag/js"></script>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', '{{ site.google_analytics }}', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'>
+</script>
 </head>
