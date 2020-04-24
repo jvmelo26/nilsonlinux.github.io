@@ -18,66 +18,66 @@ Abaixo estão alguns comandos básicos para usar o ``eopkg``
 
 Instalando Software  
 Você pode instalar um ou mais pacotes usando:
-{% highlight bash %}
+```javascript
 sudo eopkg install packagename
-
+```
 Por exemplo:
-{% highlight bash %}
+```javascript
 sudo eopkg install gnome-documents gnome-music
-
+```
 Reinstalando Software
 Você pode reinstalar um ou mais pacotes usando:
-```yml
+```javascript
 sudo eopkg install --reinstall packagename
 ```
 Por exemplo:
-```yml
+```javascript
 sudo eopkg install --reinstall gnome-documents gnome-music
 ```
 Desinstalando o software
 Você pode desinstalar um ou mais pacotes usando:
-```yml
+```javascript
 sudo eopkg remove packagename
 ```
 Por exemplo:
-```yml
+```javascript
 sudo eopkg remove gnome-documents gnome-music
 ```
 Obter informações sobre software
 Você pode obter informações sobre software, como sua descrição, versão, tamanho da instalação e muito mais, usando
-```yml
+```javascript
 sudo eopkg info packagename
 ```
 Por exemplo:
-```yml
+```javascript
 sudo eopkg info gnome-documents
 ```
 Atualizando
 Você pode atualizar seu sistema usando:
-```yml
+```javascript
 sudo eopkg upgrade
 ```
 Se você quiser apenas atualizar uma parte específica do software no seu sistema, você pode especificar é como abaixo:
-```yml
+```javascript
 sudo eopkg upgrade firefox
 ```
 Procurando
 Você pode pesquisar a seleção de software que a Solus fornece usando:
-```yml
+```javascript
 sudo eopkg search term
 ```
 Por exemplo:
-```yml
+```javascript
 sudo eopkg search documents
 ```
 Observe que você não precisa procurar por um nome de software específico, embora você possa fazer isso. Procuramos resumos e nomes de software por padrão. 
 **Ferramentas de desenvolvimento base 
 
 Se você está querendo compilar software sob o Solus, recomendamos instalar o nosso componente system.devel rodando o seguinte:
-```yml
+```javascript
 sudo eopkg install -c system.devel
 ```
 Isso fornecerá itens como clang, gcc, make, vários sub-pacotes de desenvolvimento e muito mais. Nosso system.devel é similar a pacotes em outros sistemas operacionais, como o essencial da Debian.
 
-By: Nilsonlinux. Fonte: 
+By: Nilsonlinux. Fonte:
 https://getsol.us/articles/package-management/basics/en/
