@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instalação mpd + ncmpcp
+title: Instalação mpd + ncmpcpp
 description: Instalação ncmpcpp e mpd
 image: "/uploads/bspwm010.png"
 tags:
