@@ -71,9 +71,9 @@ Por exemplo:
 sudo eopkg search documents
 ```
 Observe que você não precisa procurar por um nome de software específico, embora você possa fazer isso. Procuramos resumos e nomes de software por padrão.
-```yml
+
 Ferramentas de desenvolvimento base
-```
+
 Se você está querendo compilar software sob o Solus, recomendamos instalar o nosso componente system.devel rodando o seguinte:
 ```yml
 sudo eopkg install -c system.devel
