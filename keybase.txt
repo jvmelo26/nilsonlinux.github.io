@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/cvc
+https://keybase.io/nilsonlinux
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://nilsonlinux.github.io
-  * I am cvc (https://keybase.io/cvc) on keybase.
+  * I am cvc (https://keybase.io/nilsonlinux) on keybase.
   * I have a public key with fingerprint 5041 7293 016B 25BE D724  9D83 98F7 6D97 B786 E6A3
 
 To do so, I am signing this object:
@@ -13,13 +13,13 @@ To do so, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e15ecd17a460725753b22f82b12bcd97345b5f0b3d13ccdb0a1a95367f1d2a700a",
-      "fingerprint": "50417293016b25bed7249d8398f76d97b786e6a3",
+      "eldest_kid": "xxxxxxxxxxxxxx",
+      "fingerprint": "xxxxx",
       "host": "keybase.io",
-      "key_id": "98f76d97b786e6a3",
-      "kid": "0101bf9c8b13b506acf83bfbff1469d6fa4219248a57e0366f2949c4feeb9fcd9f580a",
-      "uid": "14e51a4c8ec0b3b31d10c8a7371f7919",
-      "username": "cvc"
+      "key_id": "xxxxxxx",
+      "kid": "xxxxxx",
+      "uid": "xxxxx",
+      "username": "nilsonlinux"
     },
     "service": {
       "hostname": "nilsonlinux.github.io",
@@ -28,9 +28,9 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1562173209,
-  "expire_in": 157680000,
-  "prev": "ffd5715436913cb9a6fa0f939336cefe0c51c484aafed5e568978504fb76796a",
+  "ctime": 65.98,
+  "expire_in": 876876876,
+  "prev": "xxxxxxxxxxxxxxxxxxx",
   "seqno": 150,
   "tag": "signature"
 }
@@ -48,7 +48,7 @@ U5fp0KaYZHOh9ho9ABEwkBilIRM+BQwRRrBEyAZIQiSV5gz7RBILJNYQK6UlEFBw
 gimzUCPBABBenWfDfJuJC3GYTxyWAB8yxDGAVCIijWbI5zrAPLCMOqRkATVUYBfY
 HhXTCJecFEVTH0bO5h7ZqfT+Rz+dN4DSchVIiCUBVCgbYGmltdCnXFMrfAQ58gNB
 mAGYUou4z5VvjZHcuqosCabyLk3hoG8IFL4KjHJ1Sgw1BCoQDDNoGYc8FRZNnBed
-xqlVt/L66zxn6A6VSXuaFjHtjE0Y1beFSXtJPq+mEEdJpKIO52xPkkKxMQ1Oegup
+xqlVt/L66zxn6AtrtrtrtrbrhrhrhrhrhrJPq+mEEdJpKIO52xPkkKxMQ1Oegup
 usfI7H+crAzz2nXRRXSbuBhGea8ROqVKwhQMCUWQYQR4nWd2FsLYZMNUQRgNgDvp
 P6bbIa3VhEHiY8rdvCQXrhnAcswxpspYAxSByg98IazRxBAacBa4gVnJKOM0bUrR
 dOWjlO2oiWhz0GLYlhdJKTZe/+iVHTMyFVWZWTNfcPu1JFM1Z9701n1/e3ZmcHau
