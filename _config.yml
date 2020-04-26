@@ -3,7 +3,7 @@ lang: "pt_br"
 # jekyll-seo-tag
 title: Blog do Nilsonlinux
 author: Nilsonlinux
-description: Blog
+description: Blog linux
 logo: /assets/img/logo.png
 social:
   links:
@@ -48,7 +48,7 @@ icons:                      # icons in the header, see http://fontawesome.com/ic
   github: https://github.com/nilsonlinux
   vk: https://vk.com/nilsonlinux
   rss: /feed.xml
-  # envelope: "mailto:mailcreio@gmail.com"
+  # envelope: "mailto:nilsonlinux@gmail.com"
 
 tag_page: "/tags/"
 
