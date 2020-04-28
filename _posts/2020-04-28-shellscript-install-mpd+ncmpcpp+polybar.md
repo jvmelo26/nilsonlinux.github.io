@@ -22,7 +22,7 @@ O nome do script é nsolus devido a minha utilização do solus como minha distr
 script para 
 Instalação e configuração (MPD + NCMPCPP + POLYBAR)
 
-Abaixo você vê uma prévia do script em execução.
+Abaixo você tem o comando do script que será executado automáticamente em seu terminal, logo após a execusão e uma prévia do script em execução.
 
 ```sh
 wget https://raw.githubusercontent.com/nilsonlinux/nsolus/master/nsolus.sh && chmod +x nsolus.sh && ./nsolus.sh
