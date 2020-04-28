@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "porque-usar-linux"
+title:  "porque-usar-linux?"
 date:   2020-04-28
 tags: linux
-image: "/uploads/nilson.png"
 
 comments: true
 edit_url: true
 ---
 
-# Por quê usar linux?
+
+## Por que usar linux?
 Esse não é apenas um post qualquer. E sim uma opinião de um usuário médio que se esforça para uma melhor utilização de um sistema.
 
 Neste artigo falaremos um pouco de o porquê utilizar linux.
