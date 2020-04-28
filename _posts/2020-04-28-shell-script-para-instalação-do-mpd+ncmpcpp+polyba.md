@@ -19,7 +19,7 @@ O nome do script é nsolus devido a minha utilização do solus como minha distr
 # nsolus
 #### Solus Budgie / Mate
 script para 
-Instalação e configuração (MPD + NCMPCPP + POLYBAR
+Instalação e configuração (MPD + NCMPCPP + POLYBAR)
 
 Abaixo você vê uma prévia do script em execução.
 
