@@ -22,15 +22,15 @@ Eu trabalho em uma grande empresa do mercado varegista na área de T.I. E sei o 
 Então!.
 
 Muitas empresas utiliza "Windows" em suas máquinas de escritório, notebooks particulares e etc. Mais nas grandes maiorias das empresas o linux está por debaixo do capô. 
-Como por exemplo nos servidores que rodam o sistema do pinguín. Caixas eletrônicos rodam Windows XP. rsrsrs. Como assim? Isso mesmo. Alguns caixas eletrônicos ainda mantém vivo o sistema prestórico da microsoft. Não que seja ruim. Ja utilizei por alguns anos na época que jogava uns games da hora, ele dificilmente me deixava na mão. Mais depois que conheci o Ubuntu em 2002 se eu não me engano. Comecei a estudar sobre o fato de existir um sistema de código aberto.
-Eu particularmente não ja sabia da existência. Mais nunca tinha me interessado muito pelo fato de querer aprender algo do zero. 
+Como por exemplo nos servidores que rodam o sistema do pinguín. Caixas eletrônicos rodam Windows XP. rsrsrs. Como assim? Isso mesmo. Alguns caixas eletrônicos ainda mantém vivo o sistema prestórico da microsoft. Não que seja ruim. Ja utilizei por alguns anos na época que jogava uns games da hora, ele dificilmente me deixava na mão. Mais depois que conheci o Ubuntu em 2012 se eu não me engano. Comecei a estudar sobre o fato de existir um sistema de código aberto.
+Eu particularmente ja sabia da existência. Mais nunca tinha me interessado muito pelo fato de querer aprender algo do zero. 
 Foi quando eu testei a versão do ubuntu instalando em meu pczinho. A instalação no primeiro momento foi suave. 
 Fiquei maravilhado com o sisteminha. Coisinha boa siow. 
 Quando descobrir o terminal então, me sentir um hacker rsrs. 
 
 Por um simples terminal você pode fazer quase tudo. 
 
-#Então você me pergunta? Por que esse post? 
+# Então você me pergunta? Por que esse post? 
 Eu respondo. 
 Que pra alguns que são limitados ou preferem se limitar em aprender algo novo, eu aconselho a se aventurar no mundo linux. 
 Eu fiz assim. E hoje não vejo mais o Windows como meu sistema operacional. A menos que você seja um gamer, possue muitos jogos na plataforma. 
