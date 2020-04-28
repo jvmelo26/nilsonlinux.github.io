@@ -10,9 +10,9 @@ edit_url: true
 ---
 
 
-Neste post estarei disponibilizando mais uma fantástica forma pra você instalar o mpd + ncmpcpp e polybar em sua distribuição. 
+Neste post estarei disponibilizando mais uma fantástica forma para você instalar o mpd + ncmpcpp e polybar em sua distribuição Solus Mate ou Budgie. 
 *Nota*: 
-Algumas distribuição não contém o polybar em seus repositórios. Caso você é usuário de uma distro como essa, aconselho compilar diretamente da fonte:)
+Algumas distribuição não contém o polybar em seus repositórios. Caso você é usuário de uma distro como essa, aconselho compilar diretamente da fonte, e seguir os passos por lá:)
 
 O nome do script é nsolus devido a minha utilização do solus como minha distribuição favorita. 
 
