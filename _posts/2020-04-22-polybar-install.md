@@ -3,7 +3,7 @@ layout: post
 title: Instalação e configuração do polybar
 description: Complementos
 author: Nilsonlinux
-image: "/uploads/bspwm010.png"
+image: "/uploads/polybar.jpg"
 tags: polybar
 
 comments: true
