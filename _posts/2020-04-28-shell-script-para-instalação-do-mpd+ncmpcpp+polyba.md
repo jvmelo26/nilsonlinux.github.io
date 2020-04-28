@@ -3,6 +3,7 @@ layout: post
 title:  "shellscript para instalação do mpd + ncmpcpp e polybar"
 date:   2020-04-28
 tags: solus shellscript
+image: "/uploads/nsolus.png"
 
 comments: true
 edit_url: true
