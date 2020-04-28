@@ -3,6 +3,7 @@ layout: post
 title:  "porque-usar-linux?"
 date:   2020-04-28
 tags: linux
+image: "/uploads/nilson.png"
 
 comments: true
 edit_url: true
