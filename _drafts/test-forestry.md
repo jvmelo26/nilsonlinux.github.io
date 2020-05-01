@@ -8,7 +8,7 @@ post_video: ''
 post_video_large: ''
 comments: true
 edit_url: true
-mathjax: true
+mathjax: false
 permalink: forestry
 
 ---
