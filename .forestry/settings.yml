@@ -14,9 +14,6 @@ sections:
   label: Pages site
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Site Folder
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
