@@ -69,3 +69,5 @@ plugins:
   - jekyll-mentions
   - jekyll-redirect-from
   - jemoji
+
+theme: jekyll-theme-cayman
