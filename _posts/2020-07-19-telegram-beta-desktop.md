@@ -17,6 +17,6 @@ Utimamente o telegram vem trazendo funcionalidades bastante interessante. Uma de
 
 Baixe agora mesmo, e tenha as novidades na sua frente.
 
-Links abaixo para linux. Mais se caso deseja fazer o download do telegram para windows, acesse a página oficial [https://telegram.org/desktop](https://telegram.org/desktop "Página oficial")
+Links para linux. [x64](https://telegram.org/dl/desktop/linux?beta=1) , [x86](https://telegram.org/dl/desktop/linux32?beta=1)
 
-[x64](https://telegram.org/dl/desktop/linux?beta=1) , [x86](https://telegram.org/dl/desktop/linux32?beta=1)
+Mais se caso deseja fazer o download do telegram para windows, acesse a página oficial [https://telegram.org/desktop](https://telegram.org/desktop "Página oficial")
