@@ -29,6 +29,8 @@ Logo após abra novamente o pacote baixado e instale normalmente.
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120844.png)
 
+![](/uploads/instalado.png)
+
 ![](/uploads/screen-capture_dde-desktop_20200719120937.png)
 
 Após a instalação faça logoff do sistema e estará assim.
