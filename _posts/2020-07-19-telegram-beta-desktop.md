@@ -9,7 +9,8 @@ mathjax: false
 permalink: telegram-beta
 
 ---
-![](/uploads/6113871.png)
+
+![](/uploads/telegram_banner.png)
 
 Instale o telegram beta em seu computador e tenha novidades.
 
