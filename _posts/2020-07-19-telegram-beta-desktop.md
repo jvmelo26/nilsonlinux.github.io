@@ -9,10 +9,9 @@ mathjax: false
 permalink: telegram-beta
 
 ---
+Instale o telegram beta em seu computador e tenha novidades.
 
 ![](/uploads/telegram_banner.png)
-
-Instale o telegram beta em seu computador e tenha novidades.
 
 Utimamente o telegram vem trazendo funcionalidades bastante interessante. Uma delas é a opção de logar mais de uma conta no mesmo aplicativo. Antes somente no app mobile. Agora ja disponível em sua versão beta.
 
