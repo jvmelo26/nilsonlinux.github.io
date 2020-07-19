@@ -1,7 +1,7 @@
 ---
 title: Instalação do novo dde-launcher do Deepin 20 beta
 description: 'Instalação do novo deepin launcher '
-tags: Deepin Instalação
+tags: deepin Instalação
 image: ''
 post_photo_path: ''
 post_video: ''
