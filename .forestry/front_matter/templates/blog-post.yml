@@ -14,15 +14,6 @@ fields:
 - type: text
   name: image
   label: image
-- type: text
-  name: post_photo_path
-  label: post_photo_path
-- type: text
-  name: post_video
-  label: post_video
-- type: text
-  name: post_video_large
-  label: post_video_large
 - type: boolean
   name: comments
   label: comments
