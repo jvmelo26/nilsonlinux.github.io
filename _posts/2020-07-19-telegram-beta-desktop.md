@@ -2,7 +2,7 @@
 title: Telegram beta desktop
 description: Baixe o telegram beta. Está cheio de recursos interessantes.
 tags: telegram downloads
-image: ''
+image: "/uploads/6113871.png"
 comments: true
 edit_url: true
 mathjax: false
