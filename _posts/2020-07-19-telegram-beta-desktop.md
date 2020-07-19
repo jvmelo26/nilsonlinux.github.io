@@ -1,7 +1,7 @@
 ---
 title: Telegram beta desktop
 description: Baixe o telegram beta. Está cheio de recursos interessantes.
-tags: downloads telegram
+tags: telegram downloads
 image: ''
 comments: true
 edit_url: true
