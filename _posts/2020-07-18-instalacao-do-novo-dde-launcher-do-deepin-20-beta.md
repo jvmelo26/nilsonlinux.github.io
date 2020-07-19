@@ -15,11 +15,15 @@ Baixe o arquivo .[deb](https://github.com/nilsonlinux/deepin/blob/master/DDE-Lau
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120605.png) Para evitar algum erro é recomendado remover a versão existente do sistema. 
 
-Clique em remover e insira sua senha.![](/uploads/screen-capture_dde-polkit-agent_20200719120728.png)
+Clique em remover e insira sua senha. E confirme a desinstalação do pacote.
+
+![](/uploads/screen-capture_dde-polkit-agent_20200719120728.png)
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120640.png)
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120810.png)
+
+Logo após abra novamente o pacote baixado e instale normalmente.
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120844.png)
 
