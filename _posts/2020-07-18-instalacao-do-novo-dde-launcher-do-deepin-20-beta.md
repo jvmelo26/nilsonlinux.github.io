@@ -11,17 +11,15 @@ image: ''
 ---
 Instalação do novo dde-launcher no deepin 20 beta.
 
-Baixe o arquivo .[deb](https://github.com/nilsonlinux/deepin/blob/master/DDE-Launcher-5.0.18-1-AMD64.DEB?raw=true "dde-launcher") e execute com o gerenciador de pacotes do deepin.
+Baixe o arquivo .[deb](https://github.com/nilsonlinux/deepin/blob/master/DDE-Launcher-5.0.18-1-AMD64.DEB?raw=true "dde-launcher") e execute com dois cliques, para abrir com o gerenciador de pacotes do deepin.
 
-![](/uploads/screen-capture_deepin-deb-installer_20200719120605.png) Abrirá o gerenciador de pacotes do deepin. Para evitar algum erro é recomendado remover a versão existente do sistema. 
+![](/uploads/screen-capture_deepin-deb-installer_20200719120605.png) Para evitar algum erro é recomendado remover a versão existente do sistema. 
 
 Clique em remover e insira sua senha.![](/uploads/screen-capture_dde-polkit-agent_20200719120728.png)
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120640.png)
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120810.png)
-
-E instale a nova versão. 
 
 ![](/uploads/screen-capture_deepin-deb-installer_20200719120844.png)
 
