@@ -6,7 +6,7 @@ comments: true
 edit_url: true
 mathjax: false
 permalink: dde-launcher-deepin20
-image: ''
+image: "/uploads/screen-capture_dde-desktop_20200718204821.png"
 
 ---
 Instalação do novo dde-launcher no deepin 20 beta.
