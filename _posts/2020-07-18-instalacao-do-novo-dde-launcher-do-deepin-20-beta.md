@@ -35,4 +35,6 @@ Após a instalação faça logoff do sistema e estará assim.
 
 ![](/uploads/screen-capture_dde-desktop_20200719121052.png)
 
+Nota: Pode ocorrer um erro logo após você fazer logoff, a barra pode ficar na parte superior com apenas o lançador aparecendo, ou outros programas e travado. Se caso ocorra isso, somente reinicia seu sistema, e tudo funcionará bem. 
+
 Simples né? Se gostou deixe seu comentário e até a próxima...
