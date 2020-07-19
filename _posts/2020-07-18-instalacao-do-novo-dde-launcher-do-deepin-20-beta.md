@@ -2,10 +2,6 @@
 title: Instalação do novo dde-launcher do Deepin 20 beta
 description: 'Instalação do novo deepin launcher '
 tags: deepin Instalação
-image: ''
-post_photo_path: ''
-post_video: ''
-post_video_large: ''
 comments: true
 edit_url: true
 mathjax: false
